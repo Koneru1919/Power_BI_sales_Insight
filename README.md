@@ -11,3 +11,7 @@
 -- Then the present task consists of creating the neccessary new columns , conditional columns and various DAX's in Power BI.
 
 -- Finally, the data is visualised in Power BI Dashboard to undestand the Sales in Atliq hardware business.
+
+
+
+References: https://github.com/codebasics/DataAnalysisProjects
